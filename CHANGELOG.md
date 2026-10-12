@@ -25,3 +25,4 @@
 - chore: clarify the setup steps
 - fix: fix a small wording issue
 - chore: add a note about the defaults
+- fix: link the usage section
